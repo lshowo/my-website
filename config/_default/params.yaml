@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Cyberpunk
+  theme_day: minimal
   theme_night: minimal
-  font: Mr Robot
-  font_size: s
+  font: minimal
+  font_size: S
 
 # SEO
 
