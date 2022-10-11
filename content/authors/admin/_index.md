@@ -89,6 +89,6 @@ I'm a graduate student in the [Department of Education](https://web.edu.hku.hk/)
 
 I appreciate interdisciplinary learning and thinking. My research interest lies in **Human-Computer Interaction**, **Educational Technology**, and **Social Computing**. Firstly, I am eager to support people's working and learning by designing interactive technologies to enhance offline activities and creating immersive scenarios for online activities. Secondly, I am passionate about investigating people's concerns about the application of new technologies and their behavior change therewith.
 
-I have learned to work with many technologies in previous experiences, such as MCUs and sensors, front-end development, and information visualization toolkits. I look forward to a lifetime of learning.
+I have learned to work with many technologies in previous experiences, such as MCUs and sensors, front-end development, information visualization toolkits, and applied machine learning. I look forward to a lifetime of learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
