@@ -7,12 +7,11 @@
 
 appearance:
   theme_day: Rose
-  theme_night: Strawberry
+  theme_night: Rose
   font: minimal
   font_size: S
 
 # SEO
-
 marketing:
   seo:
     site_type: Person

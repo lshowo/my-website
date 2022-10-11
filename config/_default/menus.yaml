@@ -13,13 +13,16 @@ main:
   - name: Research
     url: '#featured'
     weight: 30
+  - name: Activities
+    url: '#featured'
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     #url: uploads/resume.pdf
     url: https://docs.google.com/document/d/1ey-yvRphtm_t473d2mPYmGGjaBbGsH7f8HLE2dEs128/edit?usp=sharing
-    weight: 50
+    weight: 60
