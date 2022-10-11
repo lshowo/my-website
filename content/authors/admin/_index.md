@@ -59,9 +59,13 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lshowo
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@shanghaolicara 
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/newcara0913/ 
+
 #  - icon: linkedin
 #    icon_pack: fab
 #   link: https://www.linkedin.com/
