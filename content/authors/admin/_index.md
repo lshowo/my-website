@@ -10,8 +10,7 @@ last_name: Li
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
-23 Fall Ph.D. Applicant
+role: Graduate Student, 23 Fall Ph.D. Applicant
 
 # Organizations/Affiliations to show in About widget
 organizations:
