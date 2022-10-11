@@ -77,7 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. 1111111
+I'm a graduate student in the [Department of Education](https://web.edu.hku.hk/) at the [University of Kong Kong](https://www.hku.hk/), working as a research part-time research assistant of [Dr. Shihui Feng](https://scholar.google.com/citations?hl=en&user=gpQwSXwAAAAJ). Before coming to HKU, I received my bachelor's degree in Electronic Information Science and Technology at [Shandong University of Science and Technology](http://www.sdust.edu.cn/?yikikata=2af5c43f-b0c06ac4adb9ed563acd99c16a32a044). Currently, I am working closely with [Dr. Pengcheng An](https://scholar.google.com/citations?hl=en&user=8NN-2uYAAAAJ) ([Southern University of Science and Technology](https://www.sustech.edu.cn/en/)) and [Dr. Jian Zhao](https://www.jeffjianzhao.com/) ([University of Waterloo](https://uwaterloo.ca/)) on my HCI research about designing bodily play experiences for online meetings.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
